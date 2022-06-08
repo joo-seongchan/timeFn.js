@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    padding: 100px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+}
+
+input{
+    width: 200px;
+    height: 50px;
+    font: 35px;
+}
+
+.textbox{
+    width: 500px;
+    height: 500px;
+    font-size: 28px;
+    background-color: aqua;
+    position: fixed;
+    left: 50%;
+    top: 200px;
+    opacity: 0;
+}
+
+.on{
+    opacity: 1;
+}
